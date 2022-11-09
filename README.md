@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning JavaScript, React js, ...
 - 💞️ I’m looking to collaborate with UI/UX Web developer.
 - 📫 How to reach me ....
--    GMAIL: jyotiprakashchanda3112002@gmail.com
-- 🔴YOUTUBE:Jyoti Init Code
+-    Gmail: jyotiprakashchanda3112002@gmail.com
+- 🔴YouTube: Jyoti Init Code
 - Link:- https://www.youtube.com/@jyotiinitcode
 
 <!---
