@@ -6,7 +6,7 @@
 - 📫 How to reach me ....
 -    Gmail: jyotiprakashchanda3112002@gmail.com
 - 🔴YouTube: Jyoti Init Code
-- Link:- https://www.youtube.com/@jyotiinitcode
+- Link:- https://www.youtube.com/@CodeInit
 
 <!---
 jyoti01234/jyoti01234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
